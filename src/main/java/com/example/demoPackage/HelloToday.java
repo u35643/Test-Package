@@ -1,8 +1,8 @@
 package com.example.demoPackage;
 
-public class Hello {
+public class HelloToday {
 
   public void sayHello() {
-    System.out.println("Hello");
+    System.out.println("Hello today");
   }
 }

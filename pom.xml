@@ -8,7 +8,7 @@
 		<version>2.6.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
+	<groupId>com.demo.package</groupId>
 	<artifactId>demoPackage</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>demoPackage</name>
@@ -41,7 +41,7 @@
 		<repository>
 			<id>github</id>
 			<name>Test-Package</name>
-			<url>https://github.com/u35643/Test-Package</url>
+			<url>https://maven.pkg.github.com/u35643/Test-Package</url>
 		</repository>
 	</distributionManagement>
 </project>
